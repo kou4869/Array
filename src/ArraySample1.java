@@ -28,6 +28,9 @@ public class ArraySample1 {
 		
 		
 		
+		
+		
+		
 		//配列を使って計算する
 		
 		int[] scores;
@@ -63,6 +66,12 @@ public class ArraySample1 {
 		
 		System.out.println("合計点：" + total);
 		System.out.println("平均点：" + avg);
+		
+		
+		
+		System.out.println("----------");
+		
+		
 		
 		
 
